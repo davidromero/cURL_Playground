@@ -2,4 +2,4 @@
 
 echo 'using cURL'
 
-curl dromero.xyz
+curl https://raw.githubusercontent.com/davidromero/cURL_Playground/master/README.md
